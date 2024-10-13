@@ -39,7 +39,7 @@ body {
 }
 
 #write {
-    max-width: 860px;
+    max-width: 1200px; /*修改每行字数的最大长度*/
     margin: 0 auto;
     padding: 20px 30px 160px;
 }
